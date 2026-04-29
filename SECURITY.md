@@ -1,6 +1,6 @@
 # Security Policy
 
-If you believe you've found a security issue in Moltbot, please report it privately.
+If you believe you've found a security issue in Openclaw, please report it privately.
 
 ## Reporting
 
@@ -9,6 +9,6 @@ If you believe you've found a security issue in Moltbot, please report it privat
 
 ## Operational Guidance
 
-For threat model + hardening guidance (including `moltbot security audit --deep` and `--fix`), see:
+For threat model + hardening guidance (including `openclaw security audit --deep` and `--fix`), see:
 
-- `https://docs.molt.bot/gateway/security`
+- `https://docs.openclaw.ai/gateway/security`
